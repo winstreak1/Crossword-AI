@@ -2,7 +2,7 @@
 Program that creates crossword puzzles using two implementations of the Backtracking Algorithm.
 
 ## Instructions on how to compile and execute the code
-1. Navigate to https://github.com/winstreak1/-Crossword-AI.
+1. Navigate to https://github.com/winstreak1/Crossword-AI.
 2. Select 'Code' and copy the HTTPS URL.
 3. Open the Project with Github Desktop by cloning the repository or clone the project directly in PyCharm by navigating to the top menu bar and selecting Git > Clone.
 4. Open the 'Terminal' window using Windows Powershell.
