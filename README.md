@@ -18,3 +18,4 @@ Program that creates crossword puzzles using two implementations of the Backtrac
 * John. (2021, July 31). An artificial intelligence based crossword puzzle solver. Python Awesome. Retrieved November 4, 2022, from https://pythonawesome.com/an-artificial-intelligence-based-crossword-puzzle-solver/ 
 * Vaibhaw, K. E. (n.d.). Krvaibhaw/Wordplay: Wordplay, an artificial intelligence based crossword puzzle solver. GitHub. Retrieved November 4, 2022, from https://github.com/krvaibhaw/wordplay 
 * CSCI E-80. Crossword. (n.d.). Retrieved November 4, 2022, from https://cs50.harvard.edu/extension/ai/2022/fall/projects/3/crossword/ 
+* Fung, A (angusfung), sokoban-AI, Github, accessed September 27, 2022, https://github.com/angusfung/sokoban-AI
